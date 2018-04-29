@@ -1,0 +1,7 @@
+<map id="appendIntToLCD" name="appendIntToLCD">
+<area shape="rect" id="node2" href="$dwenguino_l_c_d_8c.html#afa37edcbe0f25c229b8644bf37390b35" title="appendStringToLCDcharptr" alt="" coords="171,31,348,57"/>
+<area shape="rect" id="node3" href="$dwenguino_l_c_d_8c.html#a71880436af10963ac37ebd366c4318cf" title="Append a character to the LCD Adds a character at the current cursor positon then moves the cursor to..." alt="" coords="396,31,527,57"/>
+<area shape="rect" id="node4" href="$dwenguino_l_c_d_8c.html#a5e5f54e3c95104d9a4f37ce73860f2ac" title="clears the LCD screen This function removes all the content from the LCD screen " alt="" coords="575,5,649,32"/>
+<area shape="rect" id="node6" href="$dwenguino_l_c_d_8c.html#acaef581e7b8b8a6cc55b26f5f88380e8" title="Move the cursor on the screen Sets the cursor to a specified line on a certain position. " alt="" coords="697,56,800,83"/>
+<area shape="rect" id="node5" href="$dwenguino_l_c_d_8c.html#a4e39049a0742fe24e6834930906c7221" title="sends a command to the LCD This function sends a low level command to the LCD. The command is represe..." alt="" coords="848,31,952,57"/>
+</map>

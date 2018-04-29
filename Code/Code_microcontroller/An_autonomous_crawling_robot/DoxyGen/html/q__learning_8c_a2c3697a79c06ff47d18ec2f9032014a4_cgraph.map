@@ -1,0 +1,7 @@
+<map id="calcQVal" name="calcQVal">
+<area shape="rect" id="node2" href="$q__learning_8c.html#acb5ef2a3bfef2a5e0fe47dc78c0d1510" title="Calculates the state index. " alt="" coords="147,5,258,32"/>
+<area shape="rect" id="node3" href="$q__learning_8c.html#a632253d0ea02362e77381ae60621e6fe" title="This function calculates the maximum Q&#45;value for a certain state. It should be only called by the lea..." alt="" coords="155,56,251,83"/>
+<area shape="rect" id="node4" href="$servo_8c.html#a86e6b383b047265c298acf3dc6b2cce7" title="This function waits until the servo reached the goal position. " alt="" coords="135,107,271,133"/>
+<area shape="rect" id="node5" href="$movement_decoder_8c.html#a4193a03382001fc832532bcb3814f22d" title="Returns the dirCount value. " alt="" coords="128,157,277,184"/>
+<area shape="rect" id="node6" href="$movement_decoder_8c.html#ad2e16eccdf31bcc167020f8a4272c94c" title="Clears the dirCount value. " alt="" coords="153,208,253,235"/>
+</map>

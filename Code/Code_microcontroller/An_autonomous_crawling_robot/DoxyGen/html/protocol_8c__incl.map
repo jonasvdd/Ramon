@@ -1,0 +1,5 @@
+<map id="lib/protocol/protocol.c" name="lib/protocol/protocol.c">
+<area shape="rect" id="node2" href="$protocol_8h.html" title="This library contains the custom protocol used to send data to a peripheral device which uses the sam..." alt="" coords="41,80,120,107"/>
+<area shape="rect" id="node3" href="$_u_s_a_r_t_8h.html" title="This library contains functions to transmit data with the USART protocol. Before using the USART&#39;s me..." alt="" coords="5,155,81,181"/>
+<area shape="rect" id="node4" href="$tools_8h.html" title="This library contains useful MACROS which can be used in other libraries. " alt="" coords="50,229,111,256"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="lib/q_learning/q_learning.h" name="lib/q_learning/q_learning.h">
+<area shape="rect" id="node2" href="$tools_8h.html" title="This library contains useful MACROS which can be used in other libraries. " alt="" coords="115,229,177,256"/>
+<area shape="rect" id="node3" href="$servo_8h.html" title="This library contains functions whom help to control multiple servos. Before using any of the the ser..." alt="" coords="36,155,99,181"/>
+<area shape="rect" id="node4" href="$movement_decoder_8h.html" title="This library contains functions to determine the direction by using 2 optosensores. Before using the movementDecoder&#39;s methods, call the initMovementDecoder() function. " alt="" coords="76,80,216,107"/>
+<area shape="rect" id="node5" href="$protocol_8h.html" title="This library contains the custom protocol used to send data to a peripheral device which uses the sam..." alt="" coords="240,80,319,107"/>
+<area shape="rect" id="node6" href="$_u_s_a_r_t_8h.html" title="This library contains functions to transmit data with the USART protocol. Before using the USART&#39;s me..." alt="" coords="239,155,315,181"/>
+</map>

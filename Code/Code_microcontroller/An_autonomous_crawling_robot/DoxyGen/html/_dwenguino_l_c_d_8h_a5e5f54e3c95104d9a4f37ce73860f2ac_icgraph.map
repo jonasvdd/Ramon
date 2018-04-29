@@ -1,0 +1,11 @@
+<map id="clearLCD" name="clearLCD">
+<area shape="rect" id="node2" href="$dwenguino_board_8h.html#a3d1652a60e5a072510713245399acdfd" title="initBoard" alt="" coords="157,5,230,32"/>
+<area shape="rect" id="node3" href="$_dwenguino_l_c_d_8h.html#a71880436af10963ac37ebd366c4318cf" title="Append a character to the LCD Adds a character at the current cursor positon then moves the cursor to..." alt="" coords="128,56,259,83"/>
+<area shape="rect" id="node9" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="370,157,421,184"/>
+<area shape="rect" id="node10" href="$main_8c.html#a4554e2decab4729b7d12cdb9c00aca79" title="waitforButton" alt="" coords="145,157,242,184"/>
+<area shape="rect" id="node4" href="$_dwenguino_l_c_d_8h.html#ac13eccc7498bd23b8d36493e1c4e490c" title="Print character to LCD Prints a character to a specified position. " alt="" coords="339,5,452,32"/>
+<area shape="rect" id="node5" href="$dwenguino_l_c_d_8c.html#a816736ccbe8970927d6fcb5ee874a2fd" title="appendStringToLCD_" alt="" coords="323,56,467,83"/>
+<area shape="rect" id="node6" href="$dwenguino_l_c_d_8c.html#afa37edcbe0f25c229b8644bf37390b35" title="appendStringToLCDcharptr" alt="" coords="307,107,484,133"/>
+<area shape="rect" id="node7" href="$_dwenguino_l_c_d_8h.html#aa049177391c5f6c882f5ae491fcd135d" title="Append an integer to the lcd screen Prints the integer at the current cursor position and moves the c..." alt="" coords="532,107,649,133"/>
+<area shape="rect" id="node8" href="$_dwenguino_l_c_d_8h.html#a8d2cf65cab967fb7d7957cf245a1a6a3" title="Prints an integer to the LCD screen Prints an integer to a specified line and position on the screen..." alt="" coords="697,107,797,133"/>
+</map>

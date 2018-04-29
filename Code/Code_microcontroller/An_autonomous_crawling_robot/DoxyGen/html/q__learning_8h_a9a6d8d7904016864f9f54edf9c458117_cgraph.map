@@ -1,0 +1,9 @@
+<map id="initQ_Learning" name="initQ_Learning">
+<area shape="rect" id="node2" href="$_u_s_a_r_t_8c.html#a4b46e2e6b871d0b0f138e61760b10fa2" title="Initializes the USART protocol and configures the frame format. This function should be called before..." alt="" coords="191,5,273,32"/>
+<area shape="rect" id="node3" href="$movement_decoder_8c.html#a162d483bf69640cc6d7bf70876c81d2b" title="Initializes the optosensor. This function sets up the optosensores to generate interrupts and using o..." alt="" coords="159,56,305,83"/>
+<area shape="rect" id="node4" href="$servo_8c.html#ae8878b7c3e3d89ee40d09fb85b0d85e8" title="Initializes the servo motors. This function sets up the pins and interrupts for the servos..." alt="" coords="197,107,267,133"/>
+<area shape="rect" id="node5" href="$servo_8c.html#a2cf7a12127b0d4cd8a860eaadf42bd00" title="This function enables the servo. It should be called before writing a position to the servos..." alt="" coords="186,157,278,184"/>
+<area shape="rect" id="node6" href="$servo_8c.html#a452c1e3a3a580595e1661c663e113c34" title="This function makes the servos go to a given state. " alt="" coords="171,208,293,235"/>
+<area shape="rect" id="node8" href="$servo_8c.html#a86e6b383b047265c298acf3dc6b2cce7" title="This function waits until the servo reached the goal position. " alt="" coords="164,259,300,285"/>
+<area shape="rect" id="node7" href="$servo_8c.html#acf89b89054197854eedda43d9857bdaa" title="This function makes the servo&#39;s go to a given angle. " alt="" coords="353,208,476,235"/>
+</map>

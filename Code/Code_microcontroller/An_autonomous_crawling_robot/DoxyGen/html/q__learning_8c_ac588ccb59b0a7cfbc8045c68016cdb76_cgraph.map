@@ -1,0 +1,20 @@
+<map id="Learn" name="Learn">
+<area shape="rect" id="node2" href="$q__learning_8c.html#a03fbc7d7f96958a9feebb2b16f5d7dd4" title="Initializes the Q_Table with random values. " alt="" coords="127,56,213,83"/>
+<area shape="rect" id="node4" href="$protocol_8c.html#a20d81ccfb60f3a3fd6ebaa8edafb0913" title="Transmits the datastruct. " alt="" coords="304,5,405,32"/>
+<area shape="rect" id="node6" href="$protocol_8c.html#a75513e818165ffbd3ad77755e92592d1" title="Initializes a position data object. " alt="" coords="284,107,425,133"/>
+<area shape="rect" id="node7" href="$protocol_8c.html#a86ed141733d1617aceb3eeafdbbddeb4" title="Initializes a Q_value data object. " alt="" coords="295,157,414,184"/>
+<area shape="rect" id="node8" href="$movement_decoder_8c.html#ad2e16eccdf31bcc167020f8a4272c94c" title="Clears the dirCount value. " alt="" coords="305,309,405,336"/>
+<area shape="rect" id="node9" href="$q__learning_8c.html#acb5ef2a3bfef2a5e0fe47dc78c0d1510" title="Calculates the state index. " alt="" coords="299,259,410,285"/>
+<area shape="rect" id="node10" href="$q__learning_8c.html#a2b55c07b5f4f8359c5c1c0c7a5f18804" title="This function calculates the next action. It should be only called by the learn() method..." alt="" coords="115,208,225,235"/>
+<area shape="rect" id="node12" href="$servo_8c.html#a452c1e3a3a580595e1661c663e113c34" title="This function makes the servos go to a given state. " alt="" coords="109,436,231,463"/>
+<area shape="rect" id="node14" href="$q__learning_8c.html#a2c3697a79c06ff47d18ec2f9032014a4" title="This function calculates the Q&#45;value. It should be only called by the learn() method. " alt="" coords="133,360,207,387"/>
+<area shape="rect" id="node18" href="$q__learning_8c.html#a30c9cf6d89eab36a27642f8c41881eab" title="Adjusts the parameters in the Q&#45;learning formule. " alt="" coords="108,537,232,564"/>
+<area shape="rect" id="node3" href="$protocol_8c.html#a106551cfb46bc26c11442af57e81399c" title="Initializes a size data object. " alt="" coords="295,56,415,83"/>
+<area shape="rect" id="node5" href="$_u_s_a_r_t_8c.html#aa7355d87787919bced645eb503525c96" title="Transmits data with the USART protocol. " alt="" coords="477,5,596,32"/>
+<area shape="rect" id="node11" href="$q__learning_8c.html#af66f337eff87696bd6b58e1b2c23e11e" title="This function calculates the maximum state index. It should be only called by the learn() method..." alt="" coords="285,208,424,235"/>
+<area shape="rect" id="node13" href="$servo_8c.html#acf89b89054197854eedda43d9857bdaa" title="This function makes the servo&#39;s go to a given angle. " alt="" coords="293,512,416,539"/>
+<area shape="rect" id="node15" href="$q__learning_8c.html#a632253d0ea02362e77381ae60621e6fe" title="This function calculates the maximum Q&#45;value for a certain state. It should be only called by the lea..." alt="" coords="307,360,403,387"/>
+<area shape="rect" id="node16" href="$servo_8c.html#a86e6b383b047265c298acf3dc6b2cce7" title="This function waits until the servo reached the goal position. " alt="" coords="287,411,423,437"/>
+<area shape="rect" id="node17" href="$movement_decoder_8c.html#a4193a03382001fc832532bcb3814f22d" title="Returns the dirCount value. " alt="" coords="280,461,429,488"/>
+<area shape="rect" id="node19" href="$q__learning_8c.html#a8a4e4e653f7c036c3200f17dfb3a3c01" title="Calculates the new value of the parameters used in the Q&#45;learning formula. " alt="" coords="301,563,408,589"/>
+</map>

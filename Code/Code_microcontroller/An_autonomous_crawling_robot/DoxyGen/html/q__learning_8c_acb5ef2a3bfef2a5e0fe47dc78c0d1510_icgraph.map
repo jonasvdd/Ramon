@@ -1,0 +1,6 @@
+<map id="CalcStateIndex" name="CalcStateIndex">
+<area shape="rect" id="node2" href="$q__learning_8c.html#ac588ccb59b0a7cfbc8045c68016cdb76" title="Learn" alt="" coords="323,23,377,50"/>
+<area shape="rect" id="node4" href="$q__learning_8h.html#a2c3697a79c06ff47d18ec2f9032014a4" title="This function calculates the Q&#45;value. It should be only called by the learn() method. " alt="" coords="182,23,257,50"/>
+<area shape="rect" id="node5" href="$q__learning_8h.html#a2b55c07b5f4f8359c5c1c0c7a5f18804" title="This function calculates the next action. It should be only called by the learn() method..." alt="" coords="164,74,275,100"/>
+<area shape="rect" id="node3" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="425,23,476,50"/>
+</map>

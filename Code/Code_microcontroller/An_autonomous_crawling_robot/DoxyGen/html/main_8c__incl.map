@@ -1,0 +1,10 @@
+<map id="src/main.c" name="src/main.c">
+<area shape="rect" id="node2" href="$_dwenguino_l_c_d_8h.html" title="This library contains function declarations which allow you to communicate with the lcd screen on the..." alt="" coords="53,80,171,107"/>
+<area shape="rect" id="node6" href="$q__learning_8h.html" title="This library contains the Q&#45;learning algorithm. before you can use the learn method function you shou..." alt="" coords="238,80,330,107"/>
+<area shape="rect" id="node3" href="$dwenguino_board_8h.html" title="This library contains pin assingments and basic macros for Dwenguino boards. " alt="" coords="5,155,133,181"/>
+<area shape="rect" id="node7" href="$tools_8h.html" title="This library contains useful MACROS which can be used in other libraries. " alt="" coords="361,304,423,331"/>
+<area shape="rect" id="node8" href="$servo_8h.html" title="This library contains functions whom help to control multiple servos. Before using any of the the ser..." alt="" coords="282,229,345,256"/>
+<area shape="rect" id="node9" href="$movement_decoder_8h.html" title="This library contains functions to determine the direction by using 2 optosensores. Before using the movementDecoder&#39;s methods, call the initMovementDecoder() function. " alt="" coords="322,155,462,181"/>
+<area shape="rect" id="node10" href="$protocol_8h.html" title="This library contains the custom protocol used to send data to a peripheral device which uses the sam..." alt="" coords="486,155,565,181"/>
+<area shape="rect" id="node11" href="$_u_s_a_r_t_8h.html" title="This library contains functions to transmit data with the USART protocol. Before using the USART&#39;s me..." alt="" coords="485,229,561,256"/>
+</map>

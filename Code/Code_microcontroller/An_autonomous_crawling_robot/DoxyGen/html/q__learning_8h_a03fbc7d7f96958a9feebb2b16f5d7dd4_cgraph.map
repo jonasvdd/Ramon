@@ -1,0 +1,7 @@
+<map id="initQ_Table" name="initQ_Table">
+<area shape="rect" id="node2" href="$protocol_8c.html#a106551cfb46bc26c11442af57e81399c" title="Initializes a size data object. " alt="" coords="151,5,271,32"/>
+<area shape="rect" id="node3" href="$protocol_8c.html#a20d81ccfb60f3a3fd6ebaa8edafb0913" title="Transmits the datastruct. " alt="" coords="160,56,261,83"/>
+<area shape="rect" id="node5" href="$protocol_8c.html#a75513e818165ffbd3ad77755e92592d1" title="Initializes a position data object. " alt="" coords="140,107,281,133"/>
+<area shape="rect" id="node6" href="$protocol_8c.html#a86ed141733d1617aceb3eeafdbbddeb4" title="Initializes a Q_value data object. " alt="" coords="151,157,270,184"/>
+<area shape="rect" id="node4" href="$_u_s_a_r_t_8c.html#aa7355d87787919bced645eb503525c96" title="Transmits data with the USART protocol. " alt="" coords="329,56,448,83"/>
+</map>

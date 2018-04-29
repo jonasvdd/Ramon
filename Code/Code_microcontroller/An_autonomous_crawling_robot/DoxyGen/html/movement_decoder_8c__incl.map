@@ -1,0 +1,4 @@
+<map id="lib/movementDecoder/movementDecoder.c" name="lib/movementDecoder/movementDecoder.c">
+<area shape="rect" id="node2" href="$movement_decoder_8h.html" title="This library contains functions to determine the direction by using 2 optosensores. Before using the movementDecoder&#39;s methods, call the initMovementDecoder() function. " alt="" coords="5,95,145,121"/>
+<area shape="rect" id="node3" href="$tools_8h.html" title="This library contains useful MACROS which can be used in other libraries. " alt="" coords="45,169,106,196"/>
+</map>

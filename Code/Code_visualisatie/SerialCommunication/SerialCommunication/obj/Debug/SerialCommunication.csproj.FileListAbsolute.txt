@@ -1,0 +1,27 @@
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+c:\users\julesnoppe\documents\visual studio 2015\Projects\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\Jonas\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.pdb
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Form1.resources
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.Properties.Resources.resources
+C:\Users\julesnoppe\Dropbox\Microcontrollers\q_table_visualisation\definitieve versie Seriele communicatie code\SerialCommunication\SerialCommunication\obj\Debug\SerialCommunication.csproj.GenerateResource.Cache

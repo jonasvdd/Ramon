@@ -1,0 +1,4 @@
+<map id="calcNextAction" name="calcNextAction">
+<area shape="rect" id="node2" href="$q__learning_8c.html#acb5ef2a3bfef2a5e0fe47dc78c0d1510" title="Calculates the state index. " alt="" coords="178,5,289,32"/>
+<area shape="rect" id="node3" href="$q__learning_8c.html#af66f337eff87696bd6b58e1b2c23e11e" title="This function calculates the maximum state index. It should be only called by the learn() method..." alt="" coords="164,56,303,83"/>
+</map>

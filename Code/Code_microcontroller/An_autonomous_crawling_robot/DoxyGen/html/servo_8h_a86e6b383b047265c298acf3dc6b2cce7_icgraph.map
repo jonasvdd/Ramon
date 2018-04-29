@@ -1,0 +1,6 @@
+<map id="waitServoMovement" name="waitServoMovement">
+<area shape="rect" id="node2" href="$q__learning_8h.html#a9a6d8d7904016864f9f54edf9c458117" title="Initializes the Q&#45;learning algorithm. This function sets up the pins and the interrupt for the button..." alt="" coords="312,5,417,32"/>
+<area shape="rect" id="node4" href="$q__learning_8h.html#a2c3697a79c06ff47d18ec2f9032014a4" title="This function calculates the Q&#45;value. It should be only called by the learn() method. " alt="" coords="189,56,264,83"/>
+<area shape="rect" id="node3" href="$main_8c.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="465,31,516,57"/>
+<area shape="rect" id="node5" href="$q__learning_8c.html#ac588ccb59b0a7cfbc8045c68016cdb76" title="Learn" alt="" coords="337,56,392,83"/>
+</map>

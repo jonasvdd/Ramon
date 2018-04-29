@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['init_5fdiscount_5ffactor',['INIT_DISCOUNT_FACTOR',['../q__learning_8h.html#a2298c0bfacbfc0da35737292ea9e827e',1,'q_learning.h']]],
+  ['init_5fgreedy_5ffactor',['INIT_GREEDY_FACTOR',['../q__learning_8h.html#af8be8f1a34cce926c3d2f92a12413d94',1,'q_learning.h']]],
+  ['init_5flearning_5frate',['INIT_LEARNING_RATE',['../q__learning_8h.html#a3ed18364c54c1d4579170e3d1c0809b2',1,'q_learning.h']]],
+  ['init_5fpositionprotocol',['init_PositionProtocol',['../protocol_8c.html#a75513e818165ffbd3ad77755e92592d1',1,'init_PositionProtocol(unsigned char position[2], struct Dataobj *posObj):&#160;protocol.c'],['../protocol_8h.html#a75513e818165ffbd3ad77755e92592d1',1,'init_PositionProtocol(unsigned char position[2], struct Dataobj *posObj):&#160;protocol.c']]],
+  ['init_5fqvalprotocol',['init_QvalProtocol',['../protocol_8c.html#a86ed141733d1617aceb3eeafdbbddeb4',1,'init_QvalProtocol(int QVal, struct Dataobj *Q_Data):&#160;protocol.c'],['../protocol_8h.html#a86ed141733d1617aceb3eeafdbbddeb4',1,'init_QvalProtocol(int QVal, struct Dataobj *Q_Data):&#160;protocol.c']]],
+  ['init_5fsizeprotocol',['init_SizeProtocol',['../protocol_8c.html#a106551cfb46bc26c11442af57e81399c',1,'init_SizeProtocol(unsigned char size[2], struct Dataobj *sizeObj):&#160;protocol.c'],['../protocol_8h.html#a106551cfb46bc26c11442af57e81399c',1,'init_SizeProtocol(unsigned char size[2], struct Dataobj *sizeObj):&#160;protocol.c']]],
+  ['initboard',['initBoard',['../dwenguino_board_8c.html#a3d1652a60e5a072510713245399acdfd',1,'initBoard(void):&#160;dwenguinoBoard.c'],['../dwenguino_board_8h.html#a3d1652a60e5a072510713245399acdfd',1,'initBoard(void):&#160;dwenguinoBoard.c']]],
+  ['initialval',['initialVal',['../struct_formula___parameters__t.html#a3cbd372bf0b38f289ac4946d22ad5cca',1,'Formula_Parameters_t']]],
+  ['initlcd',['initLCD',['../dwenguino_l_c_d_8c.html#a182a54305d5aab1df13015a69aef5e3c',1,'initLCD(void):&#160;dwenguinoLCD.c'],['../_dwenguino_l_c_d_8h.html#a182a54305d5aab1df13015a69aef5e3c',1,'initLCD(void):&#160;dwenguinoLCD.c']]],
+  ['initmovementdecoder',['initMovementDecoder',['../movement_decoder_8c.html#a162d483bf69640cc6d7bf70876c81d2b',1,'initMovementDecoder():&#160;movementDecoder.c'],['../movement_decoder_8h.html#a162d483bf69640cc6d7bf70876c81d2b',1,'initMovementDecoder():&#160;movementDecoder.c']]],
+  ['initq_5flearning',['initQ_Learning',['../q__learning_8c.html#a9a6d8d7904016864f9f54edf9c458117',1,'initQ_Learning():&#160;q_learning.c'],['../q__learning_8h.html#a9a6d8d7904016864f9f54edf9c458117',1,'initQ_Learning():&#160;q_learning.c']]],
+  ['initq_5ftable',['initQ_Table',['../q__learning_8c.html#a03fbc7d7f96958a9feebb2b16f5d7dd4',1,'initQ_Table():&#160;q_learning.c'],['../q__learning_8h.html#a03fbc7d7f96958a9feebb2b16f5d7dd4',1,'initQ_Table():&#160;q_learning.c']]],
+  ['initservo',['initServo',['../servo_8c.html#ae8878b7c3e3d89ee40d09fb85b0d85e8',1,'initServo(unsigned char restStateArr[NUMB_SERVOS]):&#160;servo.c'],['../servo_8h.html#ae8878b7c3e3d89ee40d09fb85b0d85e8',1,'initServo(unsigned char restStateArr[NUMB_SERVOS]):&#160;servo.c']]],
+  ['initusart',['initUSART',['../_u_s_a_r_t_8c.html#a4b46e2e6b871d0b0f138e61760b10fa2',1,'initUSART():&#160;USART.c'],['../_u_s_a_r_t_8h.html#a4b46e2e6b871d0b0f138e61760b10fa2',1,'initUSART():&#160;USART.c']]],
+  ['input',['INPUT',['../dwenguino_board_8h.html#a1bb283bd7893b9855e2f23013891fc82',1,'dwenguinoBoard.h']]],
+  ['int_5fsize',['INT_SIZE',['../protocol_8h.html#a3ac36dd0f02f263e5966ac1d1ecbd1bd',1,'protocol.h']]],
+  ['interpollate',['interpollate',['../servo_8c.html#a913182a7a55bfada13483b85c572025f',1,'interpollate():&#160;servo.c'],['../servo_8h.html#a913182a7a55bfada13483b85c572025f',1,'interpollate():&#160;servo.c']]],
+  ['interpollateint',['INTERPOLLATEINT',['../servo_8h.html#a7bf2b3bd18866b69962f878f1618d852',1,'servo.h']]],
+  ['interpollatetime',['interpollateTime',['../servo_8c.html#abb6261cad05f4577b13952047f95d42c',1,'servo.c']]],
+  ['interpollateval',['INTERPOLLATEVAL',['../servo_8h.html#a67060038bb797a126404a0a815770f55',1,'servo.h']]],
+  ['isactive',['isActive',['../structservo__t.html#a45a2bb46f70a64688f7c9ada4b28a0cb',1,'servo_t']]],
+  ['ismoving_5findex',['ISMOVING_INDEX',['../servo_8h.html#a37470e7116400836433a952cf715869e',1,'servo.h']]],
+  ['isr',['ISR',['../movement_decoder_8c.html#ad392bbe4d9b600d6d39441494cf6b2d6',1,'ISR(DECODER1_INT):&#160;movementDecoder.c'],['../movement_decoder_8c.html#ad487d54a19778addddf35cb641625575',1,'ISR(DECODER2_INT):&#160;movementDecoder.c'],['../q__learning_8c.html#a6225c50fbafa01589351ed487223aacb',1,'ISR(INT5_vect):&#160;q_learning.c'],['../servo_8c.html#ad39420cdd896dd12c68e36313139d0a5',1,'ISR(TIMER1_COMPA_vect):&#160;servo.c']]]
+];
