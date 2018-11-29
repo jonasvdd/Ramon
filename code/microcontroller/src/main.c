@@ -2,7 +2,6 @@
 #include "q_learning.h"
 
 
-
 void waitforButton();
 
 int main()
